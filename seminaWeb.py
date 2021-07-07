@@ -73,3 +73,4 @@ for i in same_date_df.index:
 semina_df = pd.DataFrame(result)
 semina_df = semina_df.transpose()
 print(semina_df)
+print(result)
